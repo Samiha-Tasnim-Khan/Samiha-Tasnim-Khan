@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samiha-Tasnim-Khan
 - 👀 I’m interested in Data Science and python.
-- 🌱 I’m currently learning Data Science in my first year.
+- 🌱 I’m currently learning Data Science in my second year.
 - 💞️ I’m looking to collaborate on statistical analysis and python.
 - 📫 How to reach me: instagram: samihatasnimkhan email: rimjhimjhorna@gmail.com 
 
